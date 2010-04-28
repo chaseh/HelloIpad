@@ -1,0 +1,356 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SimpleGestureRecognizers  */ = {
+		activeExec = 0;
+		executables = (
+			ABC5DF511187A49D006395AD /* SimpleGestureRecognizers  */,
+		);
+	};
+	2893B1A1114F14CA0094356F /* GestureRecognizerViewController.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2, 3142}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3579}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 365}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 438}";
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	2893B1A2114F14CA0094356F /* GestureRecognizerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 1066}}";
+			sepNavSelRange = "{2418, 0}";
+			sepNavVisRange = "{1917, 607}";
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	2893B1A3114F14CA0094356F /* SimpleGestureRecognizersAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2, 2522}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2907}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 372}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 386}";
+		};
+	};
+	2893B1A4114F14CA0094356F /* SimpleGestureRecognizersAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 372}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 528}";
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	2893B1AB114F14E60094356F /* rotation.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	2893B1AC114F14E60094356F /* swipe.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	2893B1AD114F14E60094356F /* tap.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ABC5DF511187A49D006395AD /* SimpleGestureRecognizers  */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleGestureRecognizers  */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SimpleGestureRecognizers  */,
+		);
+		breakpoints = (
+			AB8718991187A6F600ADFF08 /* Polygon.h:15 */,
+			ABB9E1411187E290006AB6CF /* GestureRecognizerViewController.m:31 */,
+			ABB9E1431187E290006AB6CF /* GestureRecognizerViewController.m:14 */,
+		);
+		codeSenseManager = ABC5DF611187A49F006395AD /* Code sense */;
+		executables = (
+			ABC5DF511187A49D006395AD /* SimpleGestureRecognizers  */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					837,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294163783;
+			PBXWorkspaceStateSaveDate = 294163783;
+		};
+		perUserProjectItems = {
+			AB3850291188924B00B589D0 /* PBXTextBookmark */ = AB3850291188924B00B589D0 /* PBXTextBookmark */;
+			AB38502A1188924B00B589D0 /* PBXTextBookmark */ = AB38502A1188924B00B589D0 /* PBXTextBookmark */;
+			ABD53A8911889ADE00C6978D /* PBXTextBookmark */ = ABD53A8911889ADE00C6978D /* PBXTextBookmark */;
+			ABD53A8A11889ADE00C6978D /* PBXTextBookmark */ = ABD53A8A11889ADE00C6978D /* PBXTextBookmark */;
+			ABD53A8B11889ADE00C6978D /* PBXTextBookmark */ = ABD53A8B11889ADE00C6978D /* PBXTextBookmark */;
+			ABD53A8C11889ADE00C6978D /* PBXTextBookmark */ = ABD53A8C11889ADE00C6978D /* PBXTextBookmark */;
+			ABD53AA811889D5500C6978D /* PBXTextBookmark */ = ABD53AA811889D5500C6978D /* PBXTextBookmark */;
+			ABFBDA5111880F0C00211F0B /* PBXTextBookmark */ = ABFBDA5111880F0C00211F0B /* PBXTextBookmark */;
+			ABFBDA68118810F600211F0B /* PBXTextBookmark */ = ABFBDA68118810F600211F0B /* PBXTextBookmark */;
+		};
+		sourceControlManager = ABC5DF601187A49F006395AD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	AB3850291188924B00B589D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2893B1A4114F14CA0094356F /* SimpleGestureRecognizersAppDelegate.m */;
+		name = "SimpleGestureRecognizersAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	AB38502A1188924B00B589D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2893B1A3114F14CA0094356F /* SimpleGestureRecognizersAppDelegate.h */;
+		name = "SimpleGestureRecognizersAppDelegate.h: 57";
+		rLen = 0;
+		rLoc = 2753;
+		rType = 0;
+		vrLen = 2907;
+		vrLoc = 0;
+	};
+	AB87188E1187A6BF00ADFF08 /* Polygon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1037, 372}}";
+			sepNavSelRange = "{230, 31}";
+			sepNavVisRange = "{0, 376}";
+			sepNavWindowFrame = "{{166, 55}, {1265, 723}}";
+		};
+	};
+	AB87188F1187A6BF00ADFF08 /* Polygon.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1037, 1339}}";
+			sepNavSelRange = "{1291, 0}";
+			sepNavVisRange = "{927, 413}";
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	AB8718991187A6F600ADFF08 /* Polygon.h:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = AB87188E1187A6BF00ADFF08 /* Polygon.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		modificationTime = 294118405.3855761;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	ABB9E1411187E290006AB6CF /* GestureRecognizerViewController.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2893B1A2114F14CA0094356F /* GestureRecognizerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = "SimpleGestureRecognizers ";
+		modificationTime = 294118306.239959;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	ABB9E1431187E290006AB6CF /* GestureRecognizerViewController.m:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2893B1A2114F14CA0094356F /* GestureRecognizerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = "SimpleGestureRecognizers ";
+		modificationTime = 294118315.745775;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	ABC5DF511187A49D006395AD /* SimpleGestureRecognizers  */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "SimpleGestureRecognizers ";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ABC5DF601187A49F006395AD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ABC5DF611187A49F006395AD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ABD53A8911889ADE00C6978D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABF270C91187F43800F0CB07 /* ShapeView.h */;
+		name = "ShapeView.h: 18";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	ABD53A8A11889ADE00C6978D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABF270CA1187F43800F0CB07 /* ShapeView.m */;
+		name = "ShapeView.m: 31";
+		rLen = 0;
+		rLoc = 815;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 749;
+	};
+	ABD53A8B11889ADE00C6978D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2893B1A1114F14CA0094356F /* GestureRecognizerViewController.h */;
+		name = "GestureRecognizerViewController.h: 61";
+		rLen = 0;
+		rLoc = 3371;
+		rType = 0;
+		vrLen = 3579;
+		vrLoc = 0;
+	};
+	ABD53A8C11889ADE00C6978D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2893B1A2114F14CA0094356F /* GestureRecognizerViewController.m */;
+		name = "GestureRecognizerViewController.m: 68";
+		rLen = 18;
+		rLoc = 2274;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 1375;
+	};
+	ABD53AA811889D5500C6978D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2893B1A2114F14CA0094356F /* GestureRecognizerViewController.m */;
+		name = "GestureRecognizerViewController.m: 79";
+		rLen = 0;
+		rLoc = 2418;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 1917;
+	};
+	ABF270C91187F43800F0CB07 /* ShapeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 365}}";
+			sepNavSelRange = "{368, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	ABF270CA1187F43800F0CB07 /* ShapeView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 754}}";
+			sepNavSelRange = "{815, 0}";
+			sepNavVisRange = "{749, 938}";
+			sepNavWindowFrame = "{{15, 50}, {1265, 723}}";
+		};
+	};
+	ABFBDA5111880F0C00211F0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB87188E1187A6BF00ADFF08 /* Polygon.h */;
+		name = "Polygon.h: 16";
+		rLen = 31;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	ABFBDA68118810F600211F0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB87188F1187A6BF00ADFF08 /* Polygon.m */;
+		name = "Polygon.m: 93";
+		rLen = 0;
+		rLoc = 1291;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 927;
+	};
+}

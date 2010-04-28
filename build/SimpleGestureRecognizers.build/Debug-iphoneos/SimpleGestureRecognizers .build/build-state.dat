@@ -1,0 +1,231 @@
+TSimpleGestureRecognizers 
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/Classes/GestureRecognizerViewController.h
+c000000004BCE1CE60000000000000ED9
+t1271799014
+s3801
+i<UIKit/UIKit.h>
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/Classes/GestureRecognizerViewController.m
+c000000004BCE1CE60000000000002553
+t1271799014
+s9555
+i"GestureRecognizerViewController.h"
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/Classes/SimpleGestureRecognizersAppDelegate.h
+c000000004BCE1CE60000000000000B5B
+t1271799014
+s2907
+i<UIKit/UIKit.h>
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/Classes/SimpleGestureRecognizersAppDelegate.m
+c000000004BCE1CE60000000000000BEE
+t1271799014
+s3054
+i"SimpleGestureRecognizersAppDelegate.h"
+i"GestureRecognizerViewController.h"
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/ReadMe.txt
+c000000004BC741440000000000000C60
+t1271349572
+s3168
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/SimpleGestureRecognizers__Prefix.pch
+c000000004BB3C9E900000000000000D9
+t1270073833
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app.dSYM
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/Info.plist
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/PkgInfo
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/ReadMe.txt
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/ResourceRules.plist
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/SimpleGestureRecognizers 
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/en.lproj/GestureRecognizerViewController.nib
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/rotation.png
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/swipe.png
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/tap.png
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/GestureRecognizerViewController.o
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/SimpleGestureRecognizers .LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/SimpleGestureRecognizersAppDelegate.o
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/en.lproj/GestureRecognizerViewController.xib
+c000000004BC62B720000000000005127
+t1271278450
+s20775
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/en.lproj/MainWindow.xib
+c000000004BC62B720000000000004CD4
+t1271278450
+s19668
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/main.m
+c000000004BCE1CE60000000000000A83
+t1271799014
+s2691
+i<UIKit/UIKit.h>
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/rotation.png
+c000000004BB3C9E90000000000004A66
+t1270073833
+s19046
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/swipe.png
+c000000004BB3C9E900000000000045F9
+t1270073833
+s17913
+
+N/Users/chase/Documents/deskedout/SimpleGestureRecognizers/tap.png
+c000000004BB3C9E900000000000027AF
+t1270073833
+s10159
+
+N/var/folders/Jp/Jp4t-19WHCWafQ3DpgHhVU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleGestureRecognizers__Prefix-aueltpsoquxuijhjctaugffjuexi/SimpleGestureRecognizers__Prefix.pch.gch
+t2
+s0
+
+NSimpleGestureRecognizers-Info.plist
+c000000004BC62AE1000000000000038D
+t1271278305
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294102240#294102240#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain294102240#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/GestureRecognizerViewController.o" /Users/chase/Documents/deskedout/SimpleGestureRecognizers/Classes/GestureRecognizerViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/SimpleGestureRecognizersAppDelegate.o" /Users/chase/Documents/deskedout/SimpleGestureRecognizers/Classes/SimpleGestureRecognizersAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/SimpleGestureRecognizers.build/Debug-iphoneos/SimpleGestureRecognizers .build/Objects-normal/armv7/main.o" /Users/chase/Documents/deskedout/SimpleGestureRecognizers/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/chase/Documents/deskedout/SimpleGestureRecognizers/en.lproj/GestureRecognizerViewController.xib
+r0
+
+CCompileXIB /Users/chase/Documents/deskedout/SimpleGestureRecognizers/en.lproj/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/rotation.png" rotation.png
+r0
+
+CCopyPNGFile "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/swipe.png" swipe.png
+r0
+
+CCopyPNGFile "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/tap.png" tap.png
+r0
+
+CCpResource "build/Debug-iphoneos/SimpleGestureRecognizers .app/ReadMe.txt" ReadMe.txt
+r0
+
+CCpResource "build/Debug-iphoneos/SimpleGestureRecognizers .app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app.dSYM" "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/SimpleGestureRecognizers "
+r0
+
+CLd "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/SimpleGestureRecognizers " normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app/Info.plist" SimpleGestureRecognizers-Info.plist
+r0
+
+CProcessPCH /var/folders/Jp/Jp4t-19WHCWafQ3DpgHhVU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleGestureRecognizers__Prefix-aueltpsoquxuijhjctaugffjuexi/SimpleGestureRecognizers__Prefix.pch.gch SimpleGestureRecognizers__Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/chase/Documents/deskedout/SimpleGestureRecognizers/build/Debug-iphoneos/SimpleGestureRecognizers .app"
+r0
+
